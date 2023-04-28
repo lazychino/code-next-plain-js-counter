@@ -45,3 +45,10 @@ incrementButton.addEventListener('click', () => {
 
 - What was difficult about creating a counter component in plain JavaScript?
 - What are the things we were responsible of keeping track of?
+
+### More on this topics
+
+- [MDN Intro to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+- [MDN querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+- [MDN innerText](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/innerText)
+- [MDN addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
